@@ -4,3 +4,9 @@ body {
     color: white;
     background-color: red;
 }
+
+.el {
+    width: 20px;
+    height: 30px;
+    color: red;
+}
